@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background: #f5f5f5;
+}
+
+h2 {
+  color: #333;
+}
+
+input {
+  padding: 5px;
+  margin: 5px 0;
+}
+
+button {
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+#erro {
+  font-weight: bold;
+  margin-top: 10px;
+}
